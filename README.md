@@ -18,3 +18,4 @@ This project focuses on comparing the performance of different Machine Learning 
 * Jupyter Notebook
 
 ### Workflow:
+![Comparing ML Classifiers Workflow](https://user-images.githubusercontent.com/61234823/181487428-6f6b6d34-0726-4885-9a7e-12c35237b6cc.png)
